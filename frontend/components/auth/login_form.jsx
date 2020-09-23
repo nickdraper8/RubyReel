@@ -85,7 +85,7 @@ class LoginForm extends React.Component {
     
         return (
             <main className="signup-login-form-container">
-                <span className="signup-login-logo"><span className="iconify" data-icon="mdi-language-ruby"></span>RubyReel</span>
+                <Link to="/" id="signup-login-logo"><span className="iconify" data-icon="mdi-language-ruby"></span>RubyReel</Link>
                 <span className="signup-login-title">{formTypeText}</span>
                 <span className="signup-login-after-title">to continue to RubyReel</span>
                 <form>
