@@ -129,7 +129,7 @@ class LoginForm extends React.Component {
                             <a href="https://github.com/nickdraper8/RubyReel">Project Repo</a>
                         </li>
                         <li>
-                            <a href="https://github.com/nickdraper8">Personal Website</a>
+                            <a href="https://www.linkedin.com/in/nicholas-draper/">LinkedIn</a>
                         </li>
                     </ul>
                 </footer>
