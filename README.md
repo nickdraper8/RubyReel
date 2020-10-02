@@ -148,8 +148,8 @@ After recieving the proportions, I set the inline styling to `width: ${proportio
     </div>
 ```
 
-### Final Notes
-## This was my first real project, and I had an amazing time while doing it. Time past by like nothing while working on it, and I was genuinly excited each day to build out new features and functionality. I cannot wait to dive into new projects and work with new technologies, but once I have any free time, I'll be looking to include more features to RubyReel.
+# Final Notes
+This was my first real project, and I had an amazing time while doing it. Time past by like nothing while working on it, and I was genuinly excited each day to build out new features and functionality. I cannot wait to dive into new projects and work with new technologies, but once I have any free time, I'll be looking to include more features to RubyReel.
 
 ## What I plan to implement:
 * Subscriptions
