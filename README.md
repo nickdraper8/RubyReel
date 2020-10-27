@@ -53,7 +53,7 @@ I got past this issue by replacing the `user_id` column with `ip_address`, and i
 
 Now, a video will have a safer, consistant, and more accurate view count.
 
-```
+```Ruby
 # videos_controller.rb
 
     def add_view
@@ -95,7 +95,7 @@ One thing that I just think is really cool is the like bar for video likes. I wa
 
 <div style="text-align: center"><img src="app/assets/images/likebar.gif" alt="video index"></div>
 
-```
+```Javascript
 // video_show.jsx
 
     getLikeProportion() {
@@ -122,7 +122,7 @@ One thing that I just think is really cool is the like bar for video likes. I wa
 
 ```
 After recieving the proportions, I set the inline styling to `width: ${proportion}%` of the two divs in the like-bar, with a transition property to give it the smooth glide. 
-```
+```Javascript
 // video_show.jsx
 // in the render() method, before the return
 
@@ -138,7 +138,7 @@ After recieving the proportions, I set the inline styling to `width: ${proportio
             }
         }
 ```
-```
+```Javascript
 // video_show.jsx
 // this is jsx in the return method of the render()
 
