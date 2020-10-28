@@ -9,8 +9,8 @@
 2. Features
 3. Technology
 4. A closer look
-  - Video Views
-  - Smart Errors
+    * Video Views
+    * Smart Errors
 5. Final Notes
 
 # Introduction - At a glance
