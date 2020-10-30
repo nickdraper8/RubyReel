@@ -7,11 +7,12 @@
 # Table of Contents
 1. Introduction
 2. Features
-3. Technology
-4. A closer look
+3. Recent Updates
+4. Technology
+5. A closer look
     * Video Views
     * Smart Errors
-5. Final Notes
+6. Final Notes
 
 # Introduction - At a glance
 ### [RubyReel](https://rubyreel.herokuapp.com/#/), a YouTube clone, is a video-sharing platform where users can uplaod their own videos, as well as watch and express their opinions of other user videos through the medium of likes, dislikes, and comments.
@@ -31,6 +32,12 @@
 * Edit or delete your comment or reply
 * Leave a like or a dislike on videos and comments
 * Search videos by title using the search bar
+
+# Recent Updates
+### Video Tags (10/30/20)
+Now when uploading (and editing) your videos on RubyReel, you can create your own tags to add on to videos. Then, on the homepage, you can sort the videos by tags and see only videos with that tag attached! Easily edit your video to remove tags, or add new ones.
+
+<img style="align: right" src="app/assets/images/addtags.gif" alt="addtags"><img style="align: right" src="app/assets/images/switch_tags.gif" alt="switchtags">
 
 # Technology
 ### This is a fullstack application that was built using the following technologies:
