@@ -34,6 +34,9 @@
 * Search videos by title using the search bar
 
 # Recent Updates
+### Channels (11/02/2020)
+Users now have their own channels! Owners of a channel may look at their uploaded videos, subscriptions, and are able to edit their user info. When viewing other user's channels, you may view their uploaded videos and their info.
+
 ### Video Tags (10/30/20)
 Now when uploading (and editing) your videos on RubyReel, you can create your own tags to add on to videos. Then, on the homepage, you can sort the videos by tags and see only videos with that tag attached! Easily edit your video to remove tags, or add new ones.
 
@@ -159,9 +162,11 @@ After recieving the proportions, I set the inline styling to `width: ${proportio
 This was my first real project, and I had an amazing time while doing it. Time past by like nothing while working on it, and I was genuinly excited each day to build out new features and functionality. I cannot wait to dive into new projects and work with new technologies, but once I have any free time, I'll be looking to include more features to RubyReel.
 
 ## What I plan to implement:
-* Subscriptions
+* Subscriptions ✅
   * Users can subscribe to other users
   * User pages (channels) where the owner can edit their page and manage their videos. Other users can view it to see all the owners videos and content
+* Video Tags ✅
+   * Users can tag their videos to a certain category (funny, scary, vlog, etc)
 * Filters
   * Filter search results by different attributes like length, views, likes, etc
   * Filter comments by likes, reply count, age, etc
