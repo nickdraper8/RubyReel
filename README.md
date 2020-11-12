@@ -21,7 +21,7 @@
 
 ### RubyReel was engineered to be responsive, efficient, user-friendly, and fun to use.
 
-
+<br></br>
 
 # Features
 ### A few of the things you can do on RubyReel:
