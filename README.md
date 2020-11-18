@@ -1,4 +1,3 @@
-<br><br/>
 [<div style="text-align: center"><img src="app/assets/images/logo.png" alt="logo"></div>](https://rubyreel.herokuapp.com/#/)
 
 
@@ -15,13 +14,14 @@
 6. Final Notes
 
 # Introduction - At a glance
+
+<img align="right" src="app/assets/images/rubyreelgif.gif" alt="rubyreelgif">
+
 ### [RubyReel](https://rubyreel.herokuapp.com/#/), a YouTube clone, is a video-sharing platform where users can uplaod their own videos, as well as watch and express their opinions of other user videos through the medium of likes, dislikes, and comments.
 
 ### RubyReel was engineered to be responsive, efficient, user-friendly, and fun to use.
 
-<br><br/>
-<div style="text-align: center"><img src="app/assets/images/video_index.png" alt="video index"></div>
-<br><br/>
+<br></br>
 
 # Features
 ### A few of the things you can do on RubyReel:
@@ -32,15 +32,22 @@
 * Edit or delete your comment or reply
 * Leave a like or a dislike on videos and comments
 * Search videos by title using the search bar
+* See specific users uploaded videos on their channel
+* View your uploaded videos and videos you've liked on your channel, also update your account information
 
 # Recent Updates
 ### Channels (11/02/2020)
 Users now have their own channels! Owners of a channel may look at their uploaded videos, subscriptions, and are able to edit their user info. When viewing other user's channels, you may view their uploaded videos and their info.
 
+<img src="app/assets/images/channels.gif" alt="addtags">
+
 ### Video Tags (10/30/20)
+
+<img align="right" src="app/assets/images/addtags.gif" alt="addtags">
+
 Now when uploading (and editing) your videos on RubyReel, you can create your own tags to add on to videos. Then, on the homepage, you can sort the videos by tags and see only videos with that tag attached! Easily edit your video to remove tags, or add new ones.
 
-<img style="align: right" src="app/assets/images/addtags.gif" alt="addtags"><img style="align: right" src="app/assets/images/switch_tags.gif" alt="switchtags">
+<img src="app/assets/images/switch_tags.gif" alt="switchtags">
 
 # Technology
 ### This is a fullstack application that was built using the following technologies:
